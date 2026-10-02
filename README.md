@@ -7,7 +7,7 @@
 B.Tech Computer Science and Engineering graduate passionate about building practical, scalable web applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://tarunportfolio-eight.vercel.app/)
-[![LinkedIn](https://www.linkedin.com/in/tarun-kumar-tadala-1aaba2252/)
+[![LinkedIn](https://img.shields.io/badge/Linkdin-Profile-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-tadala-1aaba2252/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/tarunkumartadala)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tarun9993&label=Profile%20views&color=0e75b6&style=flat)
@@ -58,12 +58,6 @@ B.Tech Computer Science and Engineering graduate passionate about building pract
 </div>
 
 ## 🚀 Featured Projects
-
-### CodeNova — Full-Stack Coding Practice Platform
-A coding practice platform designed around problem-solving and coding submissions.
-- Developing the application with **Java, Spring Boot, React, and MySQL**.
-- Planned features include role-based access control, code execution integration, submission tracking, and cohort leaderboards.
-- **Status:** In development.
 
 ### RideFlow — Ride-Hailing Microservices Platform
 A backend-focused ride-hailing application built around independently deployable services.
