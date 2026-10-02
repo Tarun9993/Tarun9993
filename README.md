@@ -7,7 +7,7 @@
 B.Tech Computer Science and Engineering graduate passionate about building practical, scalable web applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://tarunportfolio-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-1aaba2252/)
+[![LinkedIn](https://www.linkedin.com/in/tarun-kumar-tadala-1aaba2252/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/tarunkumartadala)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tarun9993&label=Profile%20views&color=0e75b6&style=flat)
